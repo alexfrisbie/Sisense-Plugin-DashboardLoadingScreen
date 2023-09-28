@@ -1,0 +1,9 @@
+{
+    "name": "dashboardLoadingScreen",
+    "pluginInfraVersion": 2,
+    "isEnabled": false,
+    "source": [
+        "main.6.js"
+    ],
+    "style": []
+}
